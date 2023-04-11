@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\yazılımproje\fitness_app_okul-deneme\build\windows\CMakeFiles\b8b048d75d34e796c21c91968afa4b11\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\yazılımproje\fitness_app_okul-deneme\build\windows\CMakeFiles\ed789cc5fdabb83e89cb4284544b4b98\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\yazılımproje\fitness_app_okul-deneme\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\yazılımproje\fitness_app_okul-deneme\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0462D2B-0A86-3240-8389-A4F432D3867E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+#Tue Mar 28 17:58:51 TRT 2023
+base.0=D\:\\yazilimproje\\fitness_app_okul-deneme\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

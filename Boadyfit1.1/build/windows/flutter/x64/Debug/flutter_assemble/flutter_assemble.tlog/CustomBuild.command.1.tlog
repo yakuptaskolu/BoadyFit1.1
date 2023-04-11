@@ -1,0 +1,28 @@
+^D:\YAZıLıMPROJE\FITNESS_APP_OKUL-DENEME\BUILD\WINDOWS\CMAKEFILES\B8B048D75D34E796C21C91968AFA4B11\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=D:\yazılımproje\fitness_app_okul-deneme FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=D:\yazılımproje\fitness_app_okul-deneme\windows\flutter\ephemeral PROJECT_DIR=D:\yazılımproje\fitness_app_okul-deneme FLUTTER_TARGET=D:\yazılımproje\fitness_app_okul-deneme\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\yazılımproje\fitness_app_okul-deneme\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\YAZıLıMPROJE\FITNESS_APP_OKUL-DENEME\BUILD\WINDOWS\CMAKEFILES\ED789CC5FDABB83E89CB4284544B4B98\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\YAZıLıMPROJE\FITNESS_APP_OKUL-DENEME\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/yazılımproje/fitness_app_okul-deneme/windows -BD:/yazılımproje/fitness_app_okul-deneme/build/windows --check-stamp-file D:/yazılımproje/fitness_app_okul-deneme/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\YAZıLıMPROJE\FITNESS_APP_OKUL-DENEME\BUILD\WINDOWS\CMAKEFILES\1E1B7842654AD31E5D150E851980BBAF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/yazılımproje/fitness_app_okul-deneme/windows -BD:/yazılımproje/fitness_app_okul-deneme/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/yazılımproje/fitness_app_okul-deneme/build/windows/fitness_app_okul.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\yazılımproje\fitness_app_okul-deneme\build\windows\CMakeFiles\17703fa4a49285ad258149037ecc7671\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0462D2B-0A86-3240-8389-A4F432D3867E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
